@@ -7,7 +7,7 @@
     "node": "12.11.1"
   },
   "scripts": {
-    "start": "serve ./src",
+    "start": "node ./src/index.js",
     "dev": "nodemon ./src/index.js"
   },
   "keywords": [],
